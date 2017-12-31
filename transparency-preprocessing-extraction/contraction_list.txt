@@ -1,0 +1,46 @@
+i'm,i am
+i've,i have
+it's,it is
+haven't,have not
+havent,have not
+hadn't,had not
+hadnt,had not
+don't,do not
+dont,do not
+doesn't,does not
+doesnt,does not
+didn't,did not
+can't,can not
+cant,can not
+couldn't,could not
+couldnt,could not
+should've,should have
+shouldve,should have
+shouldn't,should not
+shoudnt,should not
+isn't,is not
+isnt,is not
+aren't,are not
+arent,are not
+wasn't,was not
+wasnt,was not
+weren't,were not
+werent,were not
+we're,we are
+you're,you are
+youre,you are
+they're,they are
+theyre,they are
+she's,she is
+he's,he is
+that's,that is
+1 out of 10,1/10
+2 out of 10,2/10
+3 out of 10,3/10
+4 out of 10,4/10
+5 out of 10,5/10
+6 out of 10,6/10
+7 out of 10,7/10
+8 out of 10,8/10
+9 out of 10,9/10
+10 out of 10,10/10
