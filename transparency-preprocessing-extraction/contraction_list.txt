@@ -1,8 +1,13 @@
 i'm,i am
+ain't,are not
 i've,i have
 it's,it is
+i'll,i will
+i've,i have
 haven't,have not
 havent,have not
+hasn't,has not
+hasnt,has not
 hadn't,had not
 hadnt,had not
 don't,do not
@@ -14,10 +19,14 @@ can't,can not
 cant,can not
 couldn't,could not
 couldnt,could not
+could've,could have
+couldve,could have
 should've,should have
 shouldve,should have
 shouldn't,should not
 shoudnt,should not
+wouldn't,would not
+wouldnt,would not
 isn't,is not
 isnt,is not
 aren't,are not
@@ -27,13 +36,30 @@ wasnt,was not
 weren't,were not
 werent,were not
 we're,we are
+we've,we have
+we'll,we will
 you're,you are
 youre,you are
+you'll,you will
+you've,you have
 they're,they are
 theyre,they are
+they'd,they had
+they'll,they will
+they've,they have
+there's,there is
+theres,there is
 she's,she is
+she'll,she will
+she'd,she had
 he's,he is
+he'll,he will
+he'd,he had
+it'll,it will
 that's,that is
+what's,what is
+here's,here is
+won't,will not
 1 out of 10,1/10
 2 out of 10,2/10
 3 out of 10,3/10
