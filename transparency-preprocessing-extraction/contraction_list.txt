@@ -4,6 +4,7 @@ i've,i have
 it's,it is
 i'll,i will
 i've,i have
+i'd,i would
 haven't,have not
 havent,have not
 hasn't,has not
