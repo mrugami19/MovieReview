@@ -44,6 +44,7 @@ you're,you are
 youre,you are
 you'll,you will
 you've,you have
+you'd,you would
 they're,they are
 theyre,they are
 they'd,they had
@@ -56,6 +57,7 @@ she'll,she will
 she'd,she had
 he's,he is
 he'll,he will
+he'd,he had
 he'd,he had
 it'll,it will
 that's,that is
