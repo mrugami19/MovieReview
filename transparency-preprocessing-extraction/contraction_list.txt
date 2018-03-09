@@ -32,7 +32,6 @@ wouldnt,would not
 isn't,is not
 isnt,is not
 aren't,are not
-arent,are not
 wasn't,was not
 wasnt,was not
 weren't,were not
