@@ -1,0 +1,75 @@
+i'm,i am
+ain't,are not
+i've,i have
+it's,it is
+i'll,i will
+i've,i have
+i'd,i would
+it'd,it would
+haven't,have not
+havent,have not
+hasn't,has not
+hasnt,has not
+hadn't,had not
+hadnt,had not
+don't,do not
+dont,do not
+doesn't,does not
+doesnt,does not
+didn't,did not
+can't,can not
+cant,can not
+couldn't,could not
+couldnt,could not
+could've,could have
+couldve,could have
+should've,should have
+shouldve,should have
+shouldn't,should not
+shoudnt,should not
+wouldn't,would not
+wouldnt,would not
+isn't,is not
+isnt,is not
+aren't,are not
+wasn't,was not
+wasnt,was not
+weren't,were not
+werent,were not
+we're,we are
+we've,we have
+we'll,we will
+you're,you are
+youre,you are
+you'll,you will
+you've,you have
+you'd,you would
+they're,they are
+theyre,they are
+they'd,they had
+they'll,they will
+they've,they have
+there's,there is
+theres,there is
+she's,she is
+she'll,she will
+she'd,she had
+he's,he is
+he'll,he will
+he'd,he had
+he'd,he had
+it'll,it will
+that's,that is
+what's,what is
+here's,here is
+won't,will not
+1 out of 10,1/10
+2 out of 10,2/10
+3 out of 10,3/10
+4 out of 10,4/10
+5 out of 10,5/10
+6 out of 10,6/10
+7 out of 10,7/10
+8 out of 10,8/10
+9 out of 10,9/10
+10 out of 10,10/10
